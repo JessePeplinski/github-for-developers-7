@@ -9,3 +9,5 @@
 **Hobby:** I love to code.
 
 **Favorite Color:** Green.
+
+**Favorite Ice Cream:** Vanilla.
